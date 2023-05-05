@@ -19,4 +19,4 @@ export const TasksProvider: React.FunctionComponent<IProps> = ({children}) => {
       {children}
     </TasksContext.Provider>
   );
-}
+};
